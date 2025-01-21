@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @etchasketch5
 - 👀 I’m interested in video games and learning
-- 🌱 I’m currently learning CS at TTU
-- 💞️ I’m looking to collaborate on whatever projects may come my way
+- 🌱 I've graduated with a CS degree from Texas Tech University
+- 🧑‍💼 I currently work as an Information Security Specialist at Vista Bank
 - 📫 How to reach me...idk yet, maybe through github
 
 <!---
